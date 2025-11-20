@@ -1,4 +1,4 @@
-# EarthShake-30-Days-of-Big-Quakes
+# Quake Scope – Seismic Data Explorer
 
 This repository contains a comprehensive notebook focused on the cleaning and analysis of earthquake data using Python and data science libraries. The goal is to prepare the dataset for meaningful exploration and possible future modeling.
 
